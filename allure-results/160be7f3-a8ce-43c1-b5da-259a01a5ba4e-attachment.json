@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//button[@title='Sadece temel çerezlere izin ver']"
+}

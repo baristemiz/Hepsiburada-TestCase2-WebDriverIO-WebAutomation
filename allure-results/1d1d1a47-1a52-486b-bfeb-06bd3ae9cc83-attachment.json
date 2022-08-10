@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//h1[contains(text(),'Yenilenmiş Apple iPhone X 64 GB (12 Ay Garantili)')]"
+}
